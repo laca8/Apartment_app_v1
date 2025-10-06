@@ -9,12 +9,13 @@ NODE_ENV=development
 
 2. Create .env file in frontend
 
-NEXT_PUBLIC_API_URL=http://localhost:5000/api/v
+NEXT_PUBLIC_API_URL=http://localhost:5000/api/v1
 
 
 3. cd docker
 docker-compose up -d
 
 4. go to 
+
 
 http://localhost:3000
